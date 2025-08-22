@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">通用语音盒</string>
+    <string name="import_from_network">从网络导入</string>
+    <string name="import_from_local">从本地导入</string>
+    <string name="start_download">开始下载</string>
+    <string name="processing">处理中</string>
+    <string name="extracting">正在解压…</string>
+    <string name="downloading">正在下载: %1$d%%</string>
+    <string name="import_success">导入成功</string>
+    <string name="import_failed">导入失败</string>
+    <string name="retry">重试</string>
+    <string name="back">返回</string>
+    <string name="enter_url">请输入资源包URL</string>
+    <string name="select_zip_file">选择ZIP文件</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="duration_format">%1$02d:%2$02d</string>
+    <string name="no_voices_found">未找到语音内容</string>
+    <string name="error_loading_resource">加载资源失败</string>
+    <string name="error_invalid_zip">无效的ZIP文件</string>
+    <string name="error_missing_index">缺少index.json文件</string>
+    <string name="error_network">网络错误</string>
+    <string name="error_download">下载失败</string>
+</resources>
