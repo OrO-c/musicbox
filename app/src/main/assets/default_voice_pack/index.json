@@ -1,0 +1,52 @@
+{
+  "title": "示例语音盒",
+  "sections": [
+    {
+      "id": "character01",
+      "name": "角色A",
+      "icon": "icon_a.png"
+    },
+    {
+      "id": "character02", 
+      "name": "角色B",
+      "icon": "icon_b.png"
+    },
+    {
+      "id": "character03",
+      "name": "角色C",
+      "icon": "icon_c.png"
+    }
+  ],
+  "voices": [
+    {
+      "id": "voice001",
+      "text": "这是一句经典台词",
+      "audio_file": "audio/line01.mp3",
+      "section_id": "character01"
+    },
+    {
+      "id": "voice002",
+      "text": "这是另一句经典台词",
+      "audio_file": "audio/line02.mp3", 
+      "section_id": "character01"
+    },
+    {
+      "id": "voice003",
+      "text": "角色B的第一句台词",
+      "audio_file": "audio/line03.mp3",
+      "section_id": "character02"
+    },
+    {
+      "id": "voice004",
+      "text": "角色B的第二句台词",
+      "audio_file": "audio/line04.mp3",
+      "section_id": "character02"
+    },
+    {
+      "id": "voice005",
+      "text": "角色C的台词",
+      "audio_file": "audio/line05.mp3",
+      "section_id": "character03"
+    }
+  ]
+}
